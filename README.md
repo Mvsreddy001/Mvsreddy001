@@ -28,7 +28,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aranavmahalpure" height="30" width="40" />
   </a>
   
-  <a href="https://www.hackerrank.com/profile/chsasikiran07" target="_blank" rel="noreferrer">
+  <a href="https://www.hackerrank.com/profile/venkatasukumar01" target="_blank" rel="noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="chsasikiran" height="30" width="40" />
   </a>
   <a href="https://instagram.com/aranav@1289" target="_blank" rel="noreferrer">
